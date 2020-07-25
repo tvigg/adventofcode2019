@@ -1,7 +1,7 @@
 ﻿//lots of inspiration from https://github.com/ChrisPritchard/AdventOfCode/blob/master/2019/Day01.fs
 module Day01
 open System.IO
-let input = File.ReadAllLines (@"C:\Users\tvigg\source\repos\adventOfCodeDay1\adventOfCodeDay1\input.txt")
+let input = File.ReadAllLines (@"./input.txt") //you need the correct path to the input file
 let part1 = input |> Array.sumBy (float >> fun v -> floor (v / 3.) - 2.) |> int
 
 
