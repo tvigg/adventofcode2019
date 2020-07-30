@@ -3,7 +3,7 @@
 | Day | Solution | Part One | Part Two | 
 |---|:---:|:---:|:---:|
 |✔️ [Day 1 : The Tyranny of the Rocket Equation](https://adventofcode.com/2019/day/1) | [Solution](https://github.com/tvigg/adventofcode2019/tree/master/day1) | ⭐️ | ⭐️ |
-| [Day 2: 1202 Program Alarm](https://adventofcode.com/2019/day/2) | Solution |  |  |
+| [Day 2: 1202 Program Alarm](https://adventofcode.com/2019/day/2) | Solution | ⭐️ | ⭐️ |
 | [Day 3: Crossed Wires](https://adventofcode.com/2019/day/3) | Solution |  |  |
 | [Day 4: Secure Container](https://adventofcode.com/2019/day/4) | Solution |  |  |
 | [Day 5: Sunny with a Chance of Asteroids](https://adventofcode.com/2019/day/5) |  Solution  |  |  |
